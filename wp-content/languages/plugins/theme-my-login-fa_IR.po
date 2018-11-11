@@ -1,0 +1,775 @@
+# Translation of Plugins - Theme My Login - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Theme My Login - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-04 16:24:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Theme My Login - Stable (latest release)\n"
+
+#: admin/functions.php:395
+msgid "No thanks, just deactivate"
+msgstr "خیر ممنون, فقط غیرفعال کردن"
+
+#: admin/functions.php:394
+msgid "Submit & Deactivate"
+msgstr "ارسال و غیرفعال کردن"
+
+#: admin/functions.php:391
+msgid "Submitting this form will also include your WordPress version, TML version, PHP version and whether this is a multisite installation or not."
+msgstr "ارسال این فرم و همچنین نسخه وردپرس شما، نسخه افزونه صفحه ورود من، نسخه پی اچ پی و این که آیا این یک نصب چند منظوره است یا خیر؟"
+
+#: admin/functions.php:387
+msgid "Before you go, please take a moment to let us know why you are deactivating:"
+msgstr "قبل از رفتن، لطفا یک لحظه به ما دلیل غیرفعال کردن را بگویید:"
+
+#: admin/functions.php:386 admin/functions.php:399
+msgid "Deactivating Theme My Login"
+msgstr "غیر فعال کردن پوسته ورود من"
+
+#: admin/functions.php:179
+msgid "A new <strong>Theme My Login</strong> extension is available!"
+msgstr "افزونه جدید <strong> پوسته ورود من </strong> در دسترس است!"
+
+#: admin/settings.php:625
+msgid "On this page, you can configure the settings for the Theme My Login %s extension."
+msgstr "در این صفحه می توانید تنظیمات مربوط به افزونه پوسته ورد من و گسترش %s را پیکربندی کنید."
+
+#: admin/settings.php:614
+msgid "View your Theme My Login account"
+msgstr "نمایش حساب کاربری شما در افزونه پوسته ورود من"
+
+#: admin/settings.php:610
+msgid "Go to the Extensions Store"
+msgstr "رفتن به فروشگاه افزونه"
+
+#: admin/settings.php:568 admin/settings.php:590 admin/settings.php:641
+msgid "Get Support"
+msgstr "دریافت پشتیبانی"
+
+#: admin/settings.php:563 admin/settings.php:586 admin/settings.php:606
+#: admin/settings.php:634
+msgid "View Documentation"
+msgstr "مشاهده مستندات"
+
+#: includes/class-theme-my-login-widget.php:57
+msgctxt "Howdy"
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: admin/settings.php:664
+msgid "For more information:"
+msgstr "برای اطلاعات بیشتر:"
+
+#: admin/settings.php:601
+msgid "Once you purchase an extension, you download it from your email receipt or your account page on our website. Then, you install it just like a normal WordPress plugin."
+msgstr "پس از خرید یک افزونه آن را از طریق پست الکترونیکی خود یا صفحه حساب خود در وب سایت ما دانلود کنید. سپس آن را مانند یک افزونه وردپرس نصب کنید."
+
+#: admin/settings.php:600
+msgid "This page shows you all of the extensions available to purchase for Theme My Login."
+msgstr "این صفحه تمام پسوندهای موجود برای افزونه پوسته ورد من را جهت خرید نشان می دهد."
+
+#: admin/settings.php:581
+msgid "If you have already activated your license, this button will say \"Deactivate\". Click this button to deactivate your license."
+msgstr "اگر قبلا مجوز خود را فعال کرده اید، این دکمه می گوید «غیرفعال کردن». برای لغو مجوز شما بر روی این دکمه کلیک کنید."
+
+#: admin/settings.php:580
+msgid "If you have not yet activated your license, this button will say \"Activate\". Click this button to activate your license."
+msgstr "اگر هنوز مجوز خود را فعال نکرده اید، این دکمه \"فعال سازی\" می گوید. برای فعال کردن مجوز شما بر روی این دکمه کلیک کنید."
+
+#: admin/settings.php:579
+msgid "After you enter your license keys and click the Save Changes button at the bottom of the screen, you will see a new button next to each field with a license in it."
+msgstr "پس از وارد کردن کلید مجوز خود و کلیک بر روی دکمه ذخیره تغییرات در پایین صفحه، دکمه جدیدی را در کنار هر فیلد با مجوز در آن مشاهده خواهید کرد."
+
+#: admin/settings.php:578
+msgid "When you purchase extensions for Theme My Login, you will enter your license keys on this page."
+msgstr "وقتی که تمایل به خرید پسوندهای افزونه پوسته ورد من دارید کلید های مجوز خود را در این صفحه وارد کنید."
+
+#: admin/settings.php:558 admin/settings.php:628
+msgid "You must click the Save Changes button at the bottom of the screen for new settings to take effect."
+msgstr "شما باید روی دکمه ذخیره تغییرات در پایین صفحه کلیک کنید تا تنظیمات جدید اعمال شوند."
+
+#: admin/settings.php:557
+msgid "Additionally, you can change the slugs that are used to generate the URLs that represent specific actions."
+msgstr "علاوه بر این شما می توانید اسلایدها را که برای تولید نشانی های اینترنتی مورد استفاده قرار می گیرند تغییر دهید."
+
+#: admin/settings.php:556
+msgid "Below, you can configure how you would like users to register and log in to your site."
+msgstr "در زیر میتوانید چگونگی ثبت نام و ورود کاربران را به سایت خود پیکربندی کنید."
+
+#: admin/settings.php:555
+msgid "Welcome to Theme My Login!"
+msgstr "به افزونه پوسته ورد من خوش آمدید!"
+
+#: admin/settings.php:553 admin/settings.php:576 admin/settings.php:598
+#: admin/settings.php:622
+msgid "Overview"
+msgstr "مرور کلی"
+
+#: admin/settings.php:221
+msgid "The slugs defined here will be used to generate the URL to the corresponding action. You can see this URL below the slug field. If you would like to use pages for these actions, simply make sure the slug for the action below matches the slug of the page you would like to use for that action."
+msgstr "اسلایدها تعریف شده در اینجا برای تولید آدرس به عمل متناظر استفاده می شود. شما می توانید این آدرس را در فیلد زیر ببینید. اگر مایلید از صفحات برای این اقدامات استفاده کنید، به سادگی مطمئن شوید که حلقه برای عمل زیر منطبق با صفحه مورد نظر برای استفاده از آن است."
+
+#. Description of the plugin/theme
+msgid "Creates an alternate login, registration and password recovery experience within your theme."
+msgstr "ایجاد یک صفحه ورود، ثبت نام و بازیابی رمز عبور جایگزین برای پوسته خود."
+
+#. #-#-#-#-#  theme-my-login-code.pot (Theme My Login 7.0.11)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  theme-my-login-code.pot (Theme My Login 7.0.11)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://thememylogin.com"
+msgstr "https://thememylogin.com"
+
+#: includes/ms-functions.php:726
+msgid "The site you were looking for, %s, does not exist."
+msgstr "سایت مورد نظر شما، %s، وجود ندارد."
+
+#: includes/ms-functions.php:721
+msgid "The site you were looking for, %s, does not exist, but you can create it now!"
+msgstr "سایت مورد نظر شما، %s، وجود ندارد، اما شما می توانید آن را در حال حاضر ایجاد کنید!"
+
+#: includes/ms-functions.php:687
+msgid "%1$s is your new site. <a href=\"%2$s\">Log in</a> as &#8220;%3$s&#8221; using your existing password."
+msgstr "%1$s سایت جدید شماست <a href=\"%2$s\">ورود</a> به عنوان & # 8220؛%3$s& # 8221؛ با استفاده از رمز عبور فعلی خود"
+
+#: includes/ms-functions.php:625 includes/ms-functions.php:645
+msgid "Check your inbox at %s and click the link given."
+msgstr "صندوق پستی خود را در %s و بر روی لینک داده شده کلیک کنید."
+
+#: includes/ms-functions.php:596
+msgid "To change or disable registration go to your <a href=\"%s\">Options page</a>."
+msgstr "برای تغییر یا غیرفعال کردن ثبت نام، به خودتان بروید <a href=\"%s\">صفحه گزینه ها</a>."
+
+#: includes/ms-functions.php:592
+msgid "The network currently allows both site and user registrations."
+msgstr "شبکه در حال حاضر به هر دو ثبت نام سایت و کاربر اجازه می دهد."
+
+#: includes/ms-functions.php:588
+msgid "The network currently allows user registrations."
+msgstr "شبکه در حال حاضر اجازه ثبت نام کاربران را می دهد."
+
+#: includes/ms-functions.php:584
+msgid "The network currently allows site registrations."
+msgstr "شبکه در حال حاضر اجازه ثبت نام سایت را می دهد."
+
+#: includes/ms-functions.php:580
+msgid "The network currently disallows registrations."
+msgstr "در حال حاضر شبکه اجازه ثبت نام را نمی دهد."
+
+#: includes/functions.php:731
+msgid "Username or Email Address"
+msgstr "نام کاربری یا آدرس ایمیل"
+
+#: includes/functions.php:649
+msgid "If you have already set your own password, you may disregard this email and use the password you have already set."
+msgstr "اگر قبلا گذرواژه خود را تنظیم کرده باشید، ممکن است این ایمیل را نادیده بگیرید و از گذرواژه ای که قبلا تنظیم کرده اید استفاده کنید."
+
+#: includes/extensions.php:216
+msgid "Your license key has reached its activation limit."
+msgstr "کلید مجوز شما به حد فعال شدن شما رسیده است."
+
+#: includes/extensions.php:212
+msgid "Your license is not active for this URL."
+msgstr "مجوز شما برای این نشانی اینترنتی فعال نیست."
+
+#: includes/extensions.php:207
+msgid "Invalid license."
+msgstr "مجوز نامعتبر"
+
+#. translators: %s: site name
+#: includes/compat.php:86
+msgid "Site Name: %s"
+msgstr "نام سایت: %s"
+
+#: includes/class-theme-my-login-widget.php:173
+msgid "Show action links?"
+msgstr "نمایش لینک فعالیت؟"
+
+#: includes/actions.php:51
+msgid "Lost your password?"
+msgstr "رمز عبور خود را فراموش کرده اید؟"
+
+#: admin/settings.php:524
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: admin/settings.php:505
+msgid "<strong>ERROR</strong>: options page not found."
+msgstr "<strong>خطا</strong>: صفحه گزینه یافت نشد"
+
+#: admin/settings.php:442
+msgid "Deactivate"
+msgstr "از کار انداختن"
+
+#: admin/settings.php:427
+msgid "Inactive"
+msgstr "غیر فعال"
+
+#: admin/settings.php:424
+msgid "Invalid"
+msgstr "بی اعتبار"
+
+#: admin/settings.php:420
+msgid "Active"
+msgstr "فعال"
+
+#: admin/settings.php:174
+msgid "Automatically log in users after registration"
+msgstr "به صورت خودکار کاربران پس از ثبت نام وارد شوند"
+
+#: admin/settings.php:169
+msgid "Auto-Login"
+msgstr "ورود خودکار"
+
+#: admin/settings.php:162
+msgid "Allow users to set their own password"
+msgstr "اجازه دهید کاربران رمز عبور خود را تنظیم کنند"
+
+#: admin/settings.php:157
+msgid "Passwords"
+msgstr "رمزهای عبور"
+
+#: admin/settings.php:142 admin/settings.php:147
+msgid "Registration Type"
+msgstr "نوع ثبت نام"
+
+#: admin/settings.php:101
+msgid "Slugs"
+msgstr "اسلایدها"
+
+#: admin/settings.php:96
+msgid "Registration"
+msgstr "ثبت"
+
+#: admin/functions.php:311
+msgid "Add to Menu"
+msgstr "اضافه کردن به منو"
+
+#: admin/functions.php:278 includes/functions.php:494
+msgid "Theme My Login Actions"
+msgstr "فعالیت پوسته ورد من"
+
+#: includes/ms-functions.php:577
+msgid "Greetings Network Administrator!"
+msgstr "مدیر شبکه سلام"
+
+#: includes/class-theme-my-login-widget.php:162
+msgid "Action:"
+msgstr "فعالیت:"
+
+#: includes/functions.php:523 includes/functions.php:550
+#: includes/functions.php:565
+msgid "TML Action"
+msgstr "اقدام TML"
+
+#: includes/extensions.php:189 includes/extensions.php:220
+#: includes/extensions.php:250 includes/extensions.php:278
+msgid "An error occurred, please try again."
+msgstr "خطایی روی داد، لطفا دوباره امتحان کنید"
+
+#: includes/extensions.php:202
+msgid "Your license key has been disabled."
+msgstr "کلید مجوز شما غیرفعال شده است"
+
+#: includes/extensions.php:196
+msgid "Your license key expired on %s."
+msgstr "کلید مجوز شما منقضی شده است %s."
+
+#: admin/functions.php:163
+msgid "As a token of our gratitude, we would like to offer your an incentive for upgrading Theme My Login to version 7.0. For a limited time, we are offering a <strong>20% discount</strong> when you use the code <strong>SAVINGFACE</strong> at checkout. Act now - this offer won't last!"
+msgstr "به عنوان یک نشان از قدردانی ما، ما می خواهیم انگیزه خود را برای ارتقا تم من ورود به نسخه 7.0. برای یک مدت زمان محدود، ما پیشنهاد می کنیم<strong>تخفیف 20٪</strong> زمانی که از کد استفاده می کنید <strong>SAVINGFACE</strong>در پرداخت اکنون عمل کن - این پیشنهاد نهایی نخواهد شد!"
+
+#: admin/functions.php:111
+msgid "Theme My Login Extensions"
+msgstr "برنامه های افزودنی پوسته ورود من"
+
+#: admin/extensions.php:73
+msgid "Error: %s"
+msgstr "خطا: %s"
+
+#: admin/extensions.php:95 admin/functions.php:186
+msgid "Get This Extension"
+msgstr "دریافت این افزونه"
+
+#: admin/functions.php:102
+msgid "Licenses"
+msgstr "مجوز"
+
+#: admin/functions.php:101
+msgid "Theme My Login Licenses"
+msgstr "مجوز پوسته ورد من"
+
+#: admin/extensions.php:105
+msgid "View All Extensions"
+msgstr "مشاهده تمام افزونه ها"
+
+#: admin/functions.php:112
+msgid "Extensions"
+msgstr "برنامه های افزودنی"
+
+#: admin/extensions.php:72
+msgid "Whoops! Looks like there was an error fetching extensions from the server. Please try again."
+msgstr "اوه به نظر می رسد اشتباهی در استخراج پسوندهای از سرور رخ داده است. لطفا دوباره تلاش کنید."
+
+#: includes/actions.php:440
+msgid "Check your email for your new password."
+msgstr "برای دریافت کلمه عبور ایمیل خود را اکنون بررسی کنید."
+
+#: includes/functions.php:495
+msgid "Theme My Login Action"
+msgstr "عمل افزونه"
+
+#: includes/actions.php:622
+msgid "Invalid request."
+msgstr "درخواست نامعتبر"
+
+#: includes/actions.php:68
+msgid "Your Data Request"
+msgstr "درخواست داده شما"
+
+#: includes/actions.php:390
+msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href=\"%s\">enable cookies</a> to use WordPress."
+msgstr "<strong>خطا</strong>:کوکی‌ها متوقف شده یا توسط مرورگر شما پشتیبانی نمی شود. شما باید <a href=\"%s\">کوکی‌ها</a> را برای استفاده وردپرس فعال کنید."
+
+#: includes/actions.php:384
+msgid "https://wordpress.org/support/"
+msgstr "https://wordpress.org/support/"
+
+#: includes/actions.php:383 includes/actions.php:391
+msgid "https://codex.wordpress.org/Cookies"
+msgstr "https://codex.wordpress.org/Cookies"
+
+#: includes/actions.php:382
+msgid "<strong>ERROR</strong>: Cookies are blocked due to unexpected output. For help, please see <a href=\"%1$s\">this documentation</a> or try the <a href=\"%2$s\">support forums</a>."
+msgstr "<strong>خطا</strong>: کوکی‌ها متوقف شد هنگام خروجی نابهنگام. برای راهنمایی، لطفا <a href=\"%1$s\">مستندات</a> را ببینید یا تلاش کنید در <a href=\"%2$s\">فروم پشتیبانی</a>."
+
+#: includes/functions.php:750
+msgid "<strong>ERROR</strong>: Invalid email address."
+msgstr "<strong>خطا</strong>: آدرس ایمیل نامعتبر است"
+
+#: includes/forms.php:240
+msgid "Confirm new password"
+msgstr "تکرار گذرواژه جدید"
+
+#: includes/forms.php:143 includes/forms.php:247 includes/ms-functions.php:376
+msgid "Strength indicator"
+msgstr "قدرت‌سنج"
+
+#: includes/forms.php:233
+msgid "New password"
+msgstr "گذرواژه جدید"
+
+#: includes/forms.php:162
+msgid "Registration confirmation will be emailed to you."
+msgstr "تائید فعال‌سازی به رایانامه‌ شما فرستاده خواهد شد."
+
+#: includes/ms-functions.php:1080
+msgid "New Password"
+msgstr "گذرواژه تازه"
+
+#: includes/ms-functions.php:150
+msgid "Next"
+msgstr "بعدی"
+
+#: includes/ms-functions.php:140
+msgid "Just a username, please."
+msgstr "فقط یک نام کاربری، لطفا."
+
+#: includes/ms-functions.php:139
+msgid "Gimme a site!"
+msgstr "یک سایت به من بده!"
+
+#: includes/ms-functions.php:105
+msgid "We send your registration email to this address. (Double-check your email address before continuing.)"
+msgstr "ما رایانامه‌ فعال‌سازی را به این نشانی می‌فرستیم. (پیش از ادامه دادن، دوباره رایانامه خودتان را بررسی کنید.)"
+
+#: includes/ms-functions.php:104
+msgid "Email&nbsp;Address:"
+msgstr "نشانی&nbsp;رایانامه:"
+
+#: includes/ms-functions.php:82
+msgid "(Must be at least 4 characters, letters and numbers only.)"
+msgstr "(دست‌کم 4 نویسه باشد و فقط از حروف و اعداد تشکیل شده باشد.)"
+
+#: includes/ms-functions.php:779
+msgid "Get your own %s account in seconds"
+msgstr "اکانت %s خود را در چند ثانیه دریافت کنید."
+
+#: includes/ms-functions.php:195
+msgid "Signup"
+msgstr "ثبت نام"
+
+#: includes/ms-functions.php:232
+msgid "Create Site"
+msgstr "ایجاد سایت"
+
+#: includes/ms-functions.php:311
+msgid "No"
+msgstr "خیر"
+
+#: includes/ms-functions.php:310
+msgid "Yes"
+msgstr "بله"
+
+#: includes/ms-functions.php:315
+msgid "Allow search engines to index this site."
+msgstr "به موتورهای جستجوگر اجازه‌ی ایندکس این سایت را بده."
+
+#: includes/ms-functions.php:307
+msgid "Privacy:"
+msgstr "حریم شخصی:"
+
+#: includes/ms-functions.php:292
+msgid "Site Title:"
+msgstr "عنوان سایت:"
+
+#: includes/ms-functions.php:251 includes/ms-functions.php:272
+msgid "Must be at least 4 characters, letters and numbers only. It cannot be changed, so choose carefully!"
+msgstr "دست‌کم 4 نویسه باشد، که فقط می‌تواند شامل حروف و اعداد باشد. امکان تغییر آن نیست پس با دقت انتخاب کنید!"
+
+#: includes/ms-functions.php:250 includes/ms-functions.php:271
+msgid "Your address will be %s."
+msgstr "نشانی شما %s خواهد شد."
+
+#: includes/ms-functions.php:271
+msgid "domain"
+msgstr "دامنه"
+
+#: includes/ms-functions.php:250
+msgid "sitename"
+msgstr "نام سایت"
+
+#: includes/ms-functions.php:277
+msgid "Site Domain:"
+msgstr "دامنه سایت:"
+
+#: includes/ms-functions.php:256
+msgid "Site Name: "
+msgstr "نام سایت:"
+
+#: includes/ms-functions.php:874
+msgid "If you&#8217;re not going to use a great site domain, leave it for a new user. Now have at it!"
+msgstr "اگر شما نمی‌خواهید از دامنه یک سایت بزرگ استفاده کنید، این رو برای یک کاربر تازه بیخیال بشید. حالا اینو رو داشته باش!"
+
+#: includes/ms-functions.php:866
+msgid "Sites you are already a member of:"
+msgstr "سایت‌های شما درحال حاضر عضوی از اینها هسند:"
+
+#: includes/ms-functions.php:862
+msgid "Welcome back, %s. By filling out the form below, you can <strong>add another site to your account</strong>. There is no limit to the number of sites you can have, so create to your heart&#8217;s content, but write responsibly!"
+msgstr "%s، خوش برگشتی. با پرکردن فرم زیر، شما می‌توانید <strong>سایتی دیگر به اکانت خود اضافه کنید</strong>. محدودیتی برای تعداد سایت‌هایی که می‌توانید داشته باشید وجود ندارد، بنابراین حالشو ببرید!"
+
+#: includes/ms-functions.php:858
+msgid "Get <em>another</em> %s site in seconds"
+msgstr "بگیر <em>یکی دیگه</em> %s سایت در ثانیه"
+
+#: includes/forms.php:206
+msgid "Get New Password"
+msgstr "دریافت پسورد جدید"
+
+#: includes/forms.php:60
+msgid "Remember Me"
+msgstr "مرا به خاطر بسپار"
+
+#: includes/forms.php:97 includes/functions.php:720 includes/functions.php:727
+msgid "Username"
+msgstr "نام‌کاربری"
+
+#: includes/actions.php:631
+msgid "Invalid key"
+msgstr "کلید نامعتبر"
+
+#: admin/settings.php:129 admin/settings.php:149
+msgid "Default"
+msgstr "پیش فرض"
+
+#: includes/actions.php:22
+msgid "Log in"
+msgstr "ورود"
+
+#: includes/actions.php:444
+msgid "Registration complete. You may now log in."
+msgstr "ثبت نام شما تکمیل شد. شما می‌توانید وارد شوید."
+
+#: includes/functions.php:633
+msgid "<strong>ERROR</strong>: Please enter the same password in both password fields."
+msgstr "<strong>خطا</strong>لطفا گذرواژه مشابهی را در هر دو قسمت وارد کنید."
+
+#: includes/functions.php:630
+msgid "<strong>ERROR</strong>: Passwords may not contain the character \"\\\"."
+msgstr "<strong>خطا</strong>گذرواژه نمی‌تواند شامل این نویسه باشد \"\\\"."
+
+#: includes/forms.php:133 includes/ms-functions.php:366
+msgid "Confirm Password"
+msgstr "تایید گذرواژه"
+
+#: includes/forms.php:47 includes/forms.php:123 includes/ms-functions.php:356
+msgid "Password"
+msgstr "گذرواژه"
+
+#: includes/forms.php:114 includes/functions.php:729
+msgid "Email"
+msgstr "ایمیل"
+
+#: includes/functions.php:627
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>خطا</strong>: لطفا نام کاربری خود را وارد نمایید."
+
+#: includes/compat.php:154
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "دلیل احتمالی: تابع mail() ممکن است درهاست شما غیرفعال باشد."
+
+#: includes/compat.php:154
+msgid "The email could not be sent."
+msgstr "ایمیل نمی‌تواند فرستاده شود."
+
+#. translators: Password reset email subject. %s: Site name
+#: includes/compat.php:94
+msgid "[%s] Password Reset"
+msgstr "[%s] بازیابی گذرواژه"
+
+#: includes/compat.php:90
+msgid "To reset your password, visit the following address:"
+msgstr "برای بازیابی گذرواژه خود، نشانی زیر را ببینید:"
+
+#: includes/compat.php:89
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "اگر اشتباهی هست، کافیه این رو در نظر نگیرید. هیچ اتفاقی نمی‌افته."
+
+#. translators: %s: user login
+#: includes/compat.php:88
+msgid "Username: %s"
+msgstr "نام‌کاربری : %s"
+
+#: includes/compat.php:84
+msgid "Someone has requested a password reset for the following account:"
+msgstr "یک نفر برای این اکانت‌ها درخواست بازیابی گذرواژه را ارسال کرده است:"
+
+#: includes/compat.php:43
+msgid "<strong>ERROR</strong>: Invalid username or email."
+msgstr "<strong>خطا</strong>: نام‌کاربری یا رایانامه اشتباه است."
+
+#: includes/compat.php:28
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>خطا</strong>: کاربری با این نشانی رایانامه ثبت‌نام نکرده‌است."
+
+#: includes/compat.php:24
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr "<strong>خطا</strong>: یک نام‌کاربری یا نشانی رایانامه وارد کنید."
+
+#: includes/actions.php:453
+msgid "<strong>You have successfully updated WordPress!</strong> Please log back in to see what&#8217;s new."
+msgstr "<strong>با موفقیت وردپرس بروزرسانی شد!</strong> مجدد وارد شوید تا ببینید موارد جدید چیست."
+
+#: includes/actions.php:446
+msgid "Registration complete. Please check your email."
+msgstr "ثبت‌نام کامل شد. ایمیل خود را اکنون بررسی کنید."
+
+#: includes/actions.php:450
+msgid "Your password has been reset."
+msgstr "گذرواژه‌ی شما بازیابی شد."
+
+#: includes/actions.php:437
+msgid "Check your email for the confirmation link."
+msgstr "ایمیل خود را برای تائید لینک بررسی کنید."
+
+#: includes/actions.php:434
+msgid "User registration is currently not allowed."
+msgstr "در حال حاضر عضویت کاربر مقدور نیست."
+
+#: includes/actions.php:431
+msgid "You are now logged out."
+msgstr "شما هم‌اکنون از سیستم خارج شده‌اید."
+
+#: includes/actions.php:600
+msgid "The passwords do not match."
+msgstr "گذرواژه‌ها با هم یکسان نیستند."
+
+#: includes/actions.php:555
+msgid "Your password reset link has expired. Please request a new link below."
+msgstr "پیوند بازیابی گذرواژه‌ی شما منقضی شده‌است. لطفا یک پیوند تازه درخواست دهید."
+
+#: includes/actions.php:553
+msgid "Your password reset link appears to be invalid. Please request a new link below."
+msgstr "پیوند بازیابی گذرواژه شما نامعتبر است. لطفا یک پیوند تازه درخواست دهید."
+
+#: includes/actions.php:57 includes/forms.php:265
+msgid "Reset Password"
+msgstr "بازیابی گذرواژه"
+
+#: includes/actions.php:28 includes/class-theme-my-login-widget.php:96
+msgid "Log Out"
+msgstr "خروج"
+
+#. #-#-#-#-#  theme-my-login-code.pot (Theme My Login 7.0.11)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  theme-my-login-code.pot (Theme My Login 7.0.11)  #-#-#-#-#
+#. Author of the plugin/theme
+#: admin/functions.php:69 includes/class-theme-my-login-widget.php:23
+msgid "Theme My Login"
+msgstr "پوسته‌ی ورود من"
+
+#: includes/class-theme-my-login-widget.php:25
+msgid "A login form for your site."
+msgstr "یک ورود از وبلاگ شما."
+
+#: includes/class-theme-my-login-widget.php:92
+msgid "Profile"
+msgstr "پروفایل"
+
+#: includes/class-theme-my-login-widget.php:88
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: admin/settings.php:91 includes/actions.php:19 includes/forms.php:68
+msgid "Log In"
+msgstr "ورود"
+
+#: includes/actions.php:47
+msgid "Lost Password"
+msgstr "فراموشی گذرواژه"
+
+#: includes/actions.php:38 includes/forms.php:169
+msgid "Register"
+msgstr "نام نویسی"
+
+#: includes/ms-functions.php:1107
+msgid "Your account is now activated. <a href=\"%1$s\">Log in</a> or go back to the <a href=\"%2$s\">homepage</a>."
+msgstr "اکانت شما فعال شد.<a href=\"%1$s\">وارد شوید</a> یا برگردید به <a href=\"%2$s\">صفحه نخست</a>."
+
+#: includes/ms-functions.php:1103
+msgid "Your account is now activated. <a href=\"%1$s\">View your site</a> or <a href=\"%2$s\">Log in</a>"
+msgstr "اکانت شما فعال شد. <a href=\"%1$s\">سایت خودتان را ببینید</a> یا <a href=\"%2$s\">وارد شوید</a>"
+
+#: includes/ms-functions.php:1094
+msgid "Password:"
+msgstr "گذرواژه:"
+
+#: includes/ms-functions.php:81 includes/ms-functions.php:1093
+msgid "Username:"
+msgstr "نام کاربری:"
+
+#: includes/ms-functions.php:1083
+msgid "An error occurred during the activation"
+msgstr "یک خطا در فعال سازی رخ داده است"
+
+#: includes/ms-functions.php:1064
+msgid "Your site at %1$s is active. You may now log in to your site using your chosen username of &#8220;%2$s&#8221;. Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
+msgstr "سایت شما در %1$sفعال است. اکنون میتوانید با استفاده از نام کاربری انتخابی خود به سایت خود وارد شوید & amp؛ # 8220؛%2$s& # 8221؛ لطفا صندوق پستی ایمیل خود را در%3$sبرای رمز عبور و دستورالعمل های ورود شما. اگر ایمیل دریافت نکنید، لطفا پوشه ناخواسته یا هرزنامه خود را بررسی کنید. اگر هنوز در عرض یک ساعت یک ایمیل دریافت نکنید، می توانید<a href=\"%4$s\">گذرواژه خود را بازنشانی کنید</a>."
+
+#: includes/ms-functions.php:1056
+msgid "Your account has been activated. You may now <a href=\"%1$s\">log in</a> to the site using your chosen username of &#8220;%2$s&#8221;. Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
+msgstr "اکانت شما فعال شد. حالا می‌توانید با استفاده از نام‌کاربری &#8220;%2$s&#8221; که انتخاب کردید <a href=\"%1$s\">وارد شوید</a> . لطفا اینباکس رایانامه خودتان را در %3$s برای گذرواژه خود و دستورات ورود بررسی کنید . اگر رایانامه‌ای دریافت نکرده‌اید، خواهشا پوشه‌ی اسپم یا جانک را هم چک کنید. اگر هنوز پس از گذشت یک ساعت رایانامه‌ای دریافت نکرده‌اید، شما میتوانید <a href=\"%4$s\">گذرواژه خودتان را بازیابی کنید</a>."
+
+#: includes/ms-functions.php:1052 includes/ms-functions.php:1090
+msgid "Your account is now active!"
+msgstr "حساب کاربری شما در حال حاضر فعال است."
+
+#: admin/settings.php:444 includes/ms-functions.php:389
+msgid "Activate"
+msgstr "فعال سازی"
+
+#: includes/ms-functions.php:347
+msgid "Activation Key:"
+msgstr "کلید فعال‌سازی:"
+
+#: includes/ms-functions.php:1044
+msgid "Activation Key Required"
+msgstr "به کلید فعالسازی نیاز است."
+
+#: includes/ms-functions.php:713
+msgid "You are logged in already. No need to register again!"
+msgstr "شما پیش از این وارد شده‌اید. به ثبت‌نام دوباره نیازی نیست!"
+
+#: includes/ms-functions.php:711
+msgid "Sorry, new registrations are not allowed at this time."
+msgstr "با عرض پوزش، ثبت نام جدید در این زمان امکان پذیر نیست."
+
+#: includes/ms-functions.php:685
+msgid "The site %s is yours."
+msgstr "%s سایت شما است."
+
+#: includes/ms-functions.php:658
+msgid "Site registration has been disabled."
+msgstr "عضویت در سایت غیرفعال شده‌است."
+
+#: includes/ms-functions.php:653
+msgid "Have you entered your email correctly? You have entered %s, if it&#8217;s incorrect, you will not receive your email."
+msgstr "رایانامه (ایمیل) خودتون رو درست وارد کردید؟ شما %s را وارد کردید، اگر درست نیست شما نمیتونید ایمیل دریافت کنید."
+
+#: includes/ms-functions.php:652
+msgid "Check the junk or spam folder of your email client. Sometime emails wind up there by mistake."
+msgstr "پوشه‌ی اسپم رایانامه خودتان را بررسی کنید. بعضی وقتا ایمیل به اشتباه به این پوشه میره."
+
+#: includes/ms-functions.php:651
+msgid "Wait a little longer. Sometimes delivery of email can be delayed by processes outside of our control."
+msgstr "یکم بیشتر صبر کنید. بعضی وقتا دریافت رایانامه میتونه با تاخیر همراه باشه که کنترلش هم دست ما نیست."
+
+#: includes/ms-functions.php:649
+msgid "If you haven&#8217;t received your email yet, there are a number of things you can do:"
+msgstr "اگر هنوز رایانامه‌ای دریافت نکرده‌اید، کارهایی هست که می‌توانید انجام دهید:"
+
+#: includes/ms-functions.php:647
+msgid "Still waiting for your email?"
+msgstr "هنوز در انتظار ایمیل هستید؟"
+
+#: includes/ms-functions.php:646
+msgid "If you do not activate your site within two days, you will have to sign up again."
+msgstr "اگر پس از گذشت دو روز نتوانستید سایت خودتان را فعال کنید، باید دوباره ثبت‌نام کنید."
+
+#: includes/ms-functions.php:644
+msgid "But, before you can start using your site, <strong>you must activate it</strong>."
+msgstr "اما پیش از اینکه بتوانید سایت خود رو راه بیاندازید،  <strong>باید آن را فعال کنید</strong>."
+
+#: includes/ms-functions.php:643
+msgid "Congratulations! Your new site, %s, is almost ready."
+msgstr "به به! سایت تازه‌ی شما، %s، تقریبا آماده‌است."
+
+#: includes/ms-functions.php:629
+msgid "User registration has been disabled."
+msgstr "عضویت کاربران غیرفعال شده است."
+
+#: includes/ms-functions.php:626
+msgid "If you do not activate your username within two days, you will have to sign up again."
+msgstr "اگر پس از گذشت دو روز نتوانستید نام‌کاربری خودتان را فعال کنید، باید دوباره ثبت‌نام کنید."
+
+#: includes/ms-functions.php:624
+msgid "But, before you can start using your new username, <strong>you must activate it</strong>."
+msgstr "اما پیش از اینکه بتوانید از نام‌کاربری تازه استفاده کنید، <strong>باید آن را فعال کنید</strong>."
+
+#: includes/ms-functions.php:623
+msgid "%s is your new username"
+msgstr "نام‌کاربری تازه‌ی شما %s  می‌باشد"
+
+#: includes/ms-functions.php:608
+msgid "You must first <a href=\"%s\">log in</a>, and then you can create a new site."
+msgstr "شما ابتدا باید <a href=\"%s\">وارد شوید</a> و پس از آن می‌توانید یک سایت تازه بسازید."
+
+#: includes/ms-functions.php:605
+msgid "Registration has been disabled."
+msgstr "عضویت غیرفعال شد."
+
+#: admin/settings.php:131 admin/settings.php:150
+msgid "Email only"
+msgstr "فقط رایانامه"
+
+#: admin/settings.php:130
+msgid "Username only"
+msgstr "فقط نام‌کاربری"
+
+#: admin/settings.php:122 admin/settings.php:127
+msgid "Login Type"
+msgstr "نوع ورود"
+
+#: admin/functions.php:80
+msgid "General"
+msgstr "عمومی"
+
+#: admin/functions.php:68 admin/functions.php:79
+msgid "Theme My Login Settings"
+msgstr "پیکربندی افزونه"
